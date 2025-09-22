@@ -22,5 +22,5 @@ Aplikasi dibuat menggunakan Java (NetBeans IDE) dengan database MySQL dan juga X
 
 ## 🖼️ Aplikasi Administrasi Perputakaan
 
-<img src="https://raw.githubusercontent.com/boyzfire09/Aplikasi-Administrasi-Perpustakaan/src/Screenshot%20(878).png" width="350">
+<img src="https://raw.githubusercontent.com/boyzfire09/Aplikasi-Administrasi-Perpustakaan/main/src/Screenshot%20(878).png" width="350">
   
